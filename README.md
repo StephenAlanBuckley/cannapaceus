@@ -1,5 +1,24 @@
-# Cannapaceus
-Latin for "made of hemp," the penultimate etymological root of Canvas. The ultimate root is the Greek "cannabis."
+# README
 
-### What Is This?
-A lot of image-based projects just need a site with a canvas, so that's what this is. Fork it for fun.
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
